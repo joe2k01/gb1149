@@ -1,12 +1,68 @@
 {
     "PT401": [
         {
-            "name": "ic_placeholder_1",
-            "datasheet": "https://google.com"
+            "name": "BC107",
+            "datasheet": "https://www.farnell.com/datasheets/296633.pdf"
         },
         {
-            "name": "ic_placeholder_2",
-            "datasheet": "https://bing.com"
+            "name": "BC108",
+            "datasheet": "https://www.farnell.com/datasheets/296633.pdf"
+        },
+        {
+            "name": "BC109",
+            "datasheet": "https://www.farnell.com/datasheets/296634.pdf"
+        },
+        {
+            "name": "BC183L",
+            "datasheet": "https://www.technobotsonline.com/Datasheets3/2300-363.pdf"
+        },
+        {
+            "name": "BC184L",
+            "datasheet": "https://www.mouser.co.uk/datasheet/2/308/BC184L-1299972.pdf"
+        },
+        {
+            "name": "BC212L",
+            "datasheet": "https://www.soemtron.org/downloads/disposals/bc212l.pdf"
+        },
+        {
+            "name": "BC214L",
+            "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BC214L.pdf"
+        },
+        {
+            "name": "BC327",
+            "datasheet": "https://www.onsemi.com/pdf/datasheet/bc327-d.pdf"
+        },
+        {
+            "name": "BC337",
+            "datasheet": "https://www.onsemi.com/pdf/datasheet/bc337-d.pdf"
+        },
+        {
+            "name": "J112",
+            "datasheet": "https://www.farnell.com/datasheets/3360937.pdf"
+        },
+        {
+            "name": "2n7000",
+            "datasheet": "https://www.farnell.com/datasheets/2299562.pdf"
+        },
+        {
+            "name": "ZVP3306A",
+            "datasheet": "https://www.diodes.com/assets/Datasheets/ZVP3306A.pdf"
+        },
+        {
+            "name": "IRF510",
+            "datasheet": "https://www.vishay.com/docs/91015/irf510.pdf"
+        },
+        {
+            "name": "IRF9510",
+            "datasheet": "https://www.vishay.com/docs/91072/91072.pdf"
+        },
+        {
+            "name": "VN2222LM",
+            "datasheet": "https://datasheetspdf.com/pdf-file/294755/CalogicLLC/VN2222LM/1"
+        },
+        {
+            "name": "IRF9Z24",
+            "datasheet": "https://www.vishay.com/docs/91090/91090.pdf"
         }
     ]
 }
