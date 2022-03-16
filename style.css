@@ -1,0 +1,33 @@
+.welcome h3 {
+    width: 100vw;
+    display: grid;
+    place-items: center;
+    padding-top: 10px;
+}
+
+.welcome p {
+    padding: 10px;
+}
+
+.welcome {
+    height: 20vh;
+    background-color: #D1C4E9;
+}
+
+.ics {
+    width: 100vw;
+    height: 80vh;
+    display: grid;
+    place-items: center;
+}
+
+.table-container {
+    border: 2px solid #D1C4E9;
+    border-radius: 25px;
+    box-shadow: 5px 5px#673AB7;
+    padding: 25px;
+}
+
+table.table {
+    width: auto;
+}

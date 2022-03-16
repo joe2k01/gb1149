@@ -1,0 +1,12 @@
+{
+    "PT401": [
+        {
+            "name": "ic_placeholder_1",
+            "datasheet": "https://google.com"
+        },
+        {
+            "name": "ic_placeholder_2",
+            "datasheet": "https://bing.com"
+        }
+    ]
+}
