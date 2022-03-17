@@ -2,66 +2,82 @@
     "PT401": [
         {
             "name": "BC107",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.farnell.com/datasheets/296633.pdf"
         },
         {
             "name": "BC108",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.farnell.com/datasheets/296633.pdf"
         },
         {
             "name": "BC109",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.farnell.com/datasheets/296634.pdf"
         },
         {
             "name": "BC183L",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.technobotsonline.com/Datasheets3/2300-363.pdf"
         },
         {
             "name": "BC184L",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.mouser.co.uk/datasheet/2/308/BC184L-1299972.pdf"
         },
         {
             "name": "BC212L",
+            "description": "PNP BJT",
             "datasheet": "https://www.soemtron.org/downloads/disposals/bc212l.pdf"
         },
         {
             "name": "BC214L",
+            "description": "PNP BJT",
             "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/BC214L.pdf"
         },
         {
             "name": "BC327",
+            "description": "PNP Silicon BJT",
             "datasheet": "https://www.onsemi.com/pdf/datasheet/bc327-d.pdf"
         },
         {
             "name": "BC337",
+            "description": "NPN Silicon BJT",
             "datasheet": "https://www.onsemi.com/pdf/datasheet/bc337-d.pdf"
         },
         {
             "name": "J112",
+            "description": "N-Channel JFET Chopper",
             "datasheet": "https://www.farnell.com/datasheets/3360937.pdf"
         },
         {
             "name": "2n7000",
+            "description": "N-Channel E-MOSFET",
             "datasheet": "https://www.farnell.com/datasheets/2299562.pdf"
         },
         {
             "name": "ZVP3306A",
-            "datasheet": "https://www.diodes.com/assets/Datasheets/ZVP3306A.pdf"
+            "description": "P-Channel E-DMOSFET",
+            "datasheet": "https://www.farnell.com/datasheets/1638964.pdf"
         },
         {
             "name": "IRF510",
+            "description": "N-Channel Power MOSFET",
             "datasheet": "https://www.vishay.com/docs/91015/irf510.pdf"
         },
         {
             "name": "IRF9510",
+            "description": "P-Channel Power MOSFET",
             "datasheet": "https://www.vishay.com/docs/91072/91072.pdf"
         },
         {
             "name": "VN2222LM",
-            "datasheet": "https://datasheetspdf.com/pdf-file/294755/CalogicLLC/VN2222LM/1"
+            "description": "N-Channel E-MOSFET",
+            "datasheet": "https://pdf1.alldatasheet.com/datasheet-pdf/view/512729/VISHAY/VN2222LM.html"
         },
         {
             "name": "IRF9Z24",
+            "description": "P-Channel Power MOSFET",
             "datasheet": "https://www.vishay.com/docs/91090/91090.pdf"
         }
     ]

@@ -11,9 +11,11 @@ const loadTable = () => {
             let newRow = displayTable.insertRow();
 
             let nameCell = newRow.insertCell();
+            let descriptionCell = newRow.insertCell();
             let datasheetCell = newRow.insertCell();
 
             nameCell.innerHTML = PT401[i].name;
+            descriptionCell.innerHTML = PT401[i].description;
             datasheetCell.innerHTML = `<a href=${PT401[i].datasheet}>${PT401[i].datasheet}</a>`
         }
     })
