@@ -16,10 +16,9 @@ const loadTable = () => {
 
             nameCell.innerHTML = PT401[i].name;
             descriptionCell.innerHTML = PT401[i].description;
-            datasheetCell.innerHTML = `<a href=${PT401[i].datasheet}>${PT401[i].datasheet}</a>`
+            datasheetCell.innerHTML = `<a href=${PT401[i].datasheet} target="_blank" rel="noopener noreferrer">View Datasheet</a>`
         }
     })
-    console.log("loaded")
 }
 
 window.addEventListener("load", (event) => {

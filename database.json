@@ -79,6 +79,151 @@
             "name": "IRF9Z24",
             "description": "P-Channel Power MOSFET",
             "datasheet": "https://www.vishay.com/docs/91090/91090.pdf"
+        },
+        {
+            "name": "MAX5033C",
+            "description": "Step-Down DC-DC Converter",
+            "datasheet": "https://www.mouser.co.uk/datasheet/2/256/maxim%20integrated%20products_max5033-1179310.pdf"
+        },
+        {
+            "name": "ULN2002A",
+            "description": "Seven darlington array",
+            "datasheet": "https://docs.rs-online.com/26a8/0900766b80dbfc7d.pdf"
+        },
+        {
+            "name": "ULN2003A",
+            "description": "Seven darlington array",
+            "datasheet": "https://docs.rs-online.com/26a8/0900766b80dbfc7d.pdf"
+        },
+        {
+            "name": "3086",
+            "description": "Check in the lab for full identifier",
+            "datasheet": "Check in the lab for full identifier"
+        },
+        {
+            "name": "TDA2282",
+            "description": "Dual Low-Voltage power amplifier",
+            "datasheet": "https://www.st.com/resource/en/datasheet/cd00000134.pdf"
+        },
+        {
+            "name": "2N2369",
+            "description": "NPN BJT",
+            "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Fairchild%20PDFs/2N,PN,MPS,FTSO%20NPN%20Type.pdf"
+        },
+        {
+            "name": "2N3819",
+            "description": "N-Channel Silicon JFET",
+            "datasheet": "https://www.mouser.com/datasheet/2/68/2n3819-31474.pdf"
+        },
+        {
+            "name": "2N3904",
+            "description": "Small Signal NPN Silicon BJT",
+            "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/2N3904.pdf"
+        },
+        {
+            "name": "2N306",
+            "description": "PNP Silicon BJT",
+            "datasheet": "https://www.onsemi.com/pdf/datasheet/2n3906-d.pdf"
+        },
+        {
+            "name": "NML0512SC",
+            "description": "2W Single Output DC-DC Converter",
+            "datasheet": "https://www.murata.com/products/productdata/8807031308318/kdc-nml.pdf"
+        },
+        {
+            "name": "Check in the lab for full identifier",
+            "description": "Check in the lab for full identifier",
+            "datasheet": "Check in the lab for full identifier"
+        },
+        {
+            "name": "TIP31A",
+            "description": "NPN Power Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/tip31a.pdf"
+        },
+        {
+            "name": "TIP32A",
+            "description": "PNP Power Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/tip32a.pdf"
+        },
+        {
+            "name": "TIP110",
+            "description": "NPN Silicon Power Darlington Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/tip110.pdf"
+        },
+        {
+            "name": "TIP115",
+            "description": "PNP Silicon Power Darlington Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/tip115.pdf"
+        },
+        {
+            "name": "2N3055",
+            "description": "NPN Power Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/2n3055.pdf"
+        },
+        {
+            "name": "MJ2955",
+            "description": "PNP Power Transistor",
+            "datasheet": "https://www.st.com/resource/en/datasheet/mj2955.pdf"
+        },
+        {
+            "name": "L78L33",
+            "description": "3V3 Voltage Regulator",
+            "datasheet": "https://www.st.com/resource/en/datasheet/l78l.pdf"
+        },
+        {
+            "name": "LD1117V33",
+            "description": "3V3 Voltage Regulator",
+            "datasheet": "https://www.st.com/resource/en/datasheet/ld1117.pdf"
+        },
+        {
+            "name": "LD1117V50",
+            "description": "5V Voltage Regulator",
+            "datasheet": "https://www.st.com/resource/en/datasheet/ld1117.pdf"
+        },
+        {
+            "name": "78L05",
+            "description": "5V Voltage Regulator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm78l.pdf"
+        },
+        {
+            "name": "79L05",
+            "description": "-5V Negative Voltage Regulator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm79l.pdf"
+        },
+        {
+            "name": "7805",
+            "description": "5V Voltage Regulator",
+            "datasheet": "https://www.sparkfun.com/datasheets/Components/LM7805.pdf"
+        },
+        {
+            "name": "7905",
+            "description": "-5V Negative Voltage Regulator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm79.pdf"
+        },
+        {
+            "name": "7812",
+            "description": "12V Voltage Regulator",
+            "datasheet": "https://www.hobbytronics.co.uk/datasheets/L7812.pdf"
+        },
+        {
+            "name": "7912",
+            "description": "-12V Negative Voltage Regulator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm79.pdf"
+        },
+        {
+            "name": "317",
+            "description": "Adjustable Positive Voltage Regulator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm317.pdf"
+        },
+        {
+            "name": "LM337",
+            "description": "Adjustable Negative Voltage Regulator",
+            "datasheet": ""
+        },
+        {
+            "name": "Check in the lab for full identifier",
+            "description": "Check in the lab for full identifier",
+            "datasheet": "Check in the lab for full identifier"
         }
     ]
 }
