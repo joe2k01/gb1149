@@ -1,7 +1,7 @@
 .welcome h3 {
-    width: 100vw;
+    /*width: 100vw;
     display: grid;
-    place-items: center;
+    place-items: center;*/
     padding-top: 10px;
 }
 
@@ -10,13 +10,11 @@
 }
 
 .welcome {
-    height: 20vh;
     background-color: #D1C4E9;
 }
 
 .ics {
-    width: 100vw;
-    height: 80vh;
+    width: 100%;
     display: grid;
     place-items: center;
 }
@@ -26,6 +24,8 @@
     border-radius: 25px;
     box-shadow: 5px 5px#673AB7;
     padding: 25px;
+
+    margin: 10px;
 }
 
 table.table {

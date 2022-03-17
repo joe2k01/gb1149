@@ -14,7 +14,7 @@ const loadTable = () => {
             let datasheetCell = newRow.insertCell();
 
             nameCell.innerHTML = PT401[i].name;
-            datasheetCell.innerHTML = `<a href=${PT401[i].datasheet}>link</a>`
+            datasheetCell.innerHTML = `<a href=${PT401[i].datasheet}>${PT401[i].datasheet}</a>`
         }
     })
     console.log("loaded")
