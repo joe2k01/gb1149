@@ -97,8 +97,8 @@
         },
         {
             "name": "3086",
-            "description": "Check in the lab for full identifier",
-            "datasheet": "Check in the lab for full identifier"
+            "description": "Transistor Arrays",
+            "datasheet": "https://www.digchip.com/datasheets/parts/datasheet/321/LM3086-pdf.php"
         },
         {
             "name": "TDA2282",
@@ -224,6 +224,86 @@
             "name": "Check in the lab for full identifier",
             "description": "Check in the lab for full identifier",
             "datasheet": "Check in the lab for full identifier"
+        },
+        {
+            "name": "MCP6024",
+            "description": "10MHz Rail-to-Rail OpAmp",
+            "datasheet": "https://www.farnell.com/datasheets/630323.pdf"
+        },
+        {
+            "name": "TL061",
+            "description": "Low Power JFET-Input OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/tl061.pdf"
+        },
+        {
+            "name": "TL071",
+            "description": "Low Noise FET-Input OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/tl071.pdf"
+        },
+        {
+            "name": "TL072",
+            "description": "Low Noise FET-Input OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/tl072.pdf"
+        },
+        {
+            "name": "TL074",
+            "description": "Low Noise FET-Input OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/tl074.pdf"
+        },
+        {
+            "name": "741",
+            "description": "Check in the lab for full identifier",
+            "datasheet": "Check in the lab for full identifier"
+        },
+        {
+            "name": "LM324",
+            "description": "OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm324.pdf"
+        },
+        {
+            "name": "MCP6291",
+            "description": "1.0 mA, 10MHz Rail-toRail OpAmp",
+            "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/MCP6291-Family-Data-Sheet-DS20001812G.pdf"
+        },
+        {
+            "name": "LM319",
+            "description": "High Speed Dual Comparator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm319-n.pdf"
+        },
+        {
+            "name": "LM339",
+            "description": "Quad Differential Comparator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm339.pdf"
+        },
+        {
+            "name": "LF356",
+            "description": "JFET-Input OpAmp",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lf356.pdf"
+        },
+        {
+            "name": "LM393",
+            "description": "Dual Comparator",
+            "datasheet": "https://www.ti.com/lit/ds/symlink/lm393.pdf"
+        },
+        {
+            "name": "",
+            "description": "",
+            "datasheet": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "datasheet": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "datasheet": ""
+        },
+        {
+            "name": "",
+            "description": "",
+            "datasheet": ""
         }
     ]
 }
